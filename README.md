@@ -8,6 +8,7 @@ I arrived in Israel from France in 2016.
 
 
 Skills: 
+
 • Paradigms and models Agile, Incremental, Prototyping, Spiral, V model, Waterfall
 
 • Agile Development Process TTD, Kanban, Scrum, XP, GitHub

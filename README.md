@@ -1,8 +1,13 @@
 As a 2nd-year student, I am seeking an opportunity at a Software Development position to gaining and expanding my knowledge.
+
 Fast-learner, responsible, dedicated to hard-working with a passion for coding.
+
 Ability to analyze, research and learn new technologies completely independently, even under pressure.
+
 Familiar to collaborating with teams to analyze requirements, design solution and implemented an actionable product .
+
 I am highly motivated with strong self-learning skills and a can-do attitude.
+
 
 I arrived in Israel from France in 2016.
 

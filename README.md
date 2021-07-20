@@ -9,10 +9,17 @@ I arrived in Israel from France in 2016.
 
 Skills: 
 • Paradigms and models Agile, Incremental, Prototyping, Spiral, V model, Waterfall
+
 • Agile Development Process TTD, Kanban, Scrum, XP, GitHub
+
 • Project Management
+
 • Object-Oriented Analysis, Design and Development
+
 • Knowledge with Design patterns
+
 • Languages JAVA, C++, C#, ASP.NET, Python, JavaScript, TypeScript, Scheme, Prolog
+
 • Databases DBMS, JDBC, ORM, Oracle, MySQL
+
 • Multithreaded Programming TPC, Reactor

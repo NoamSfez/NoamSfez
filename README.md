@@ -1,12 +1,8 @@
-As a 2nd-year student, I am seeking an opportunity at a Software Development position to gaining and expanding my knowledge.
+Software engineer student with strong capabilities in analysis, design and development of complex systems using most popular languages such as Java, JavaScript, Python and C++.
 
-Fast-learner, responsible, dedicated to hard-working with a passion for coding.
+Eager to join a dynamic team to collaborate on the development of complex applications for the company using Agile Methodologies.
 
-Ability to analyze, research and learn new technologies completely independently, even under pressure.
-
-Familiar to collaborating with teams to analyze requirements, design solution and implemented an actionable product .
-
-I am highly motivated with strong self-learning skills and a can-do attitude.
+Passionate, extremely motivated, very fast learner with strong autonomy and ability to support high pressure.
 
 
 I arrived in Israel from France in 2016.
@@ -14,18 +10,19 @@ I arrived in Israel from France in 2016.
 
 Skills: 
 
-• Paradigms and models Agile, Incremental, Prototyping, Spiral, V model, Waterfall
+• Agile Project Management using Scrum, Kanban, XP, TDD, and GitHub
 
-• Agile Development Process TTD, Kanban, Scrum, XP, GitHub
+• Object-Oriented Analysis, Design and Development with good knowledge of Design Patterns
 
-• Project Management
+• Several languages such as Java, JavaScript, Python, C++, C#, .NET, TypeScript, HTML, CSS, PHP, Scheme, Prolog
 
-• Object-Oriented Analysis, Design and Development
+• Server Side Technologies:  Node.js (with Express.js, Koa.js), Spring Boot
 
-• Knowledge with Design patterns
+• User Interface Technologies: ReactJS, WPF (with XAML)
 
-• Languages JAVA, C++, C#, ASP.NET, Python, JavaScript, TypeScript, Scheme, Prolog
+• Databases: MySQL, SQLite, MongoDB
 
-• Databases DBMS, JDBC, ORM, Oracle, MySQL
+• Multithreading Programming
 
-• Multithreaded Programming TPC, Reactor
+• Content Management System: Drupal
+
